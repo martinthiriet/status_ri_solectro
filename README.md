@@ -1,2 +1,2 @@
-# status_ri_solectro
-Satus et règlement intérieur solectro
+# Status et règlement intérieur de Solectro
+
